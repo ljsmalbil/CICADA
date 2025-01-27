@@ -1,0 +1,81 @@
+EX-ADL
+
+Conditions diseases make cognitive, ADL, mood, or behavior patterns unstable
+Cognitive Skills for Daily Decision Making
+Chest pain
+Diarrhea
+Aspiration
+Fever Aspiration
+GI or GU bleeding
+Cognitive Skills for Daily Decision Making
+Chest pain
+Diarrhea
+Aspiration
+Fever Aspiration
+GI or GU bleeding
+Most severe pressure ulcer
+Dyspnea: Shortness of breath
+Fatigue
+Falls
+End-stage disease, 6 or fewer months to live
+sCPS Cognitive Performance Scale 0-6 range-Morris 1991
+Distance walked
+Distance wheeled
+Gender
+
+EX-ADL 
+
+sABS Aggressive Behaviour Scale 0-12 range =0 no 1-4 mild to moderate 5+more severe
+Acute change in Mental Status from persons usual functioning
+Abnormal thought process loosening of associations, blocking, flight of ideas, tangentiality, circumstantiality
+Delusions Fixed false beliefs
+Hallucinations False sensory perceptions
+Loneliness: indicates feelings of loneliness
+Withdrawal from activities of interest
+Reduced social interactions
+Difficulty falling asleep or staying asleep waking up too early restlessness non-restful sleep
+Major life stressors in last  last 90 days
+End-stage disease, 6 or fewer months to live
+Smoking and Drinking CAP
+Cognitive Skills for Daily Decision Making
+sCPS Cognitive Performance Scale 0-6 range-Morris 1991
+sDRS depression rating scale (0-14)
+Dyspnea: Shortness of breath
+Fatigue
+Alcohol: Highest number of drinks in any single sitting in last 14 days
+Total hours of exercise or physical activity in last 3 days
+Gender
+Assessment reference date
+Psychological therapies - total minutes in past week
+sDRS depression rating scale (0-14)
+
+OT-CPS
+
+sCHESS (range 0-5): Changes in Health, End-stage disease, Signs and Symptoms Scale
+sABS Aggressive Behaviour Scale 0-12 range =0 no 1-4 mild to moderate 5+more severe
+Chest pain
+Diarrhea
+Vomiting
+Aspiration
+Fever Aspiration
+GI or GU bleeding
+Experiencing an acute episode, or a flare-up of a recurrent or chronic problem
+Abnormal thought process loosening of associations, blocking, flight of ideas, tangentiality, circumstantiality
+Delusions Fixed false beliefs
+Hallucinations False sensory perceptions
+Past 3 days: Chemotherapy
+Past 3 days: Dialysis
+Past 3 days:Oxygen therapy
+Past 3 days: Radiation
+Past 3 days: Suctioning
+Past 3 days: Tracheostomy care
+Past 3 days:  Transfusion
+Past 3 days: Ventilator
+Past 3 days: Infection control segregation
+Gender
+Living arrangement
+Time since last hospital stay
+5 Year History-Long Term Care Facility
+5 Year History-Board and care home, assisted living
+Cognitive Skills for Daily Decision Making
+Memory Recall Ability: Situational memory ok

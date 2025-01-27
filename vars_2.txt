@@ -1,0 +1,23 @@
+| Code   | Meaning                                              | Variable Type               |
+|--------|------------------------------------------------------|-----------------------------|
+| `ic1`  | Cognitive Skills for Daily Decision Making           | Value-Based Indication      |
+| `ij2e` | Chest pain                                           | Value-Based Indication      |
+| `ij2l` | Diarrhea                                             | Value-Based Indication      |
+| `ij2t` | Aspiration                                           | Value-Based Indication      |
+| `ij2q` | Fever Aspiration                                     | Value-Based Indication      |
+| `ij2r` | GI or GU bleeding                                    | Value-Based Indication      |
+| `il1`  | Most severe pressure ulcer                           | Confounder                  |
+| `ij3`  | Dyspnea: Shortness of breath                         | Confounder                  |
+| `ij4`  | Fatigue                                              | Confounder                  |
+| `ij1`  | Falls                                                | Confounder                  |
+| `ij6c` | End-stage disease, 6 or fewer months to live         | Confounder                  |
+| `scps` | sCPS Cognitive Performance Scale 0-6 range-Morris 1991 | Confounder               |
+| `ig4`  | Distance walked                                      | Clinical Indication         |
+| `ig5`  | Distance wheeled                                     | Confounder                  |
+| `ia2`  | Gender                                               | Other Relevant Covar        |
+| `ia12a`| Living arrangement                                   | Other Relevant Covar        |
+| `ia13` | Time since last hospital stay                        | Other Relevant Covar        |
+| `ib5a` | 5 Year History-Long Term Care Facility              | Other Relevant Covar        |
+| `ib5b` | 5 Year History-Board and care home, assisted living | Other Relevant Covar        |
+| `ic2c` | Memory Recall Ability: Situational memory ok        | Other Relevant Covar        |
+| `ia9`  | Assessment reference date                           | Other Relevant Variable     |

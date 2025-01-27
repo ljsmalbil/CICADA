@@ -1,0 +1,56 @@
+| Unmatched Code | Description                   |
+|----------------|-------------------------------|
+| `clientid`     | Not found in the dataset      |
+| `i2j1`         | Not found in the dataset      |
+| `i2je`         | Not found in the dataset      |
+| `i2jn`         | Not found in the dataset      |
+| `i2jq`         | Not found in the dataset      |
+| `i2jr`         | Not found in the dataset      |
+| `i2jt`         | Not found in the dataset      |
+| `i3`           | Not found in the dataset      |
+| `i3ca`         | Not found in the dataset      |
+| `i3cb`         | Not found in the dataset      |
+| `i3da`         | Not found in the dataset      |
+| `i4a`          | Not found in the dataset      |
+| `i6a`          | Not found in the dataset      |
+| `i6b`          | Not found in the dataset      |
+| `i6c`          | Not found in the dataset      |
+| `ib5c`         | Not found in the dataset      |
+| `ih5`          | Not found in the dataset      |
+| `ij2`          | Not found in the dataset      |
+| `sage_cat`     | Not found in the dataset      |
+| `target`       | Not found in the dataset      |
+| `treatment`    | Not found in the dataset      |
+
+
+| Code   | Meaning                                                                        |
+|--------|--------------------------------------------------------------------------------|
+| `ia9`  | Assessment reference date                                                     |
+| `ih1`  | Bladder continence                                                             |
+| `ih3`  | Bowel continence                                                               |
+| `ic1`  | Cognitive Skills for Daily Decision Making                                     |
+| `ij2a` | Difficult or unable to move self to standing position unassisted               |
+| `ij2b` | Difficult or unable to turn self around and face the opposite direction when standing |
+| `ij2c` | Dizziness                                                                      |
+| `ij1`  | Falls                                                                          |
+| `il7`  | Foot problems, e.g., bunions, hammertoes, overlapping toes, structural problems, infections, ulcers |
+| `ia2`  | Gender                                                                         |
+| `ia12a`| Living arrangement                                                             |
+| `ic2c` | Memory Recall Ability: Situational memory ok                                   |
+| `il1`  | Most severe pressure ulcer                                                     |
+| `in2i` | Past 3 days: Transfusion                                                       |
+| `in2a` | Past 3 days: Chemotherapy                                                      |
+| `in2c` | Past 3 days: Infection control segregation                                     |
+| `in2f` | Past 3 days: Radiation                                                         |
+| `in2g` | Past 3 days: Suctioning                                                        |
+| `in2h` | Past 3 days: Tracheostomy care                                                 |
+| `in2e` | Past 3 days: Oxygen therapy                                                    |
+| `ie3e` | Resists care, taking medications, injections, ADL assistance, eating           |
+| `scps` | sCPS Cognitive Performance Scale 0-6 range-Morris 1991                         |
+| `sdrs` | sDRS depression rating scale (0-14)                                            |
+| `ia13` | Time since last hospital stay                                                  |
+| `ij2d` | Unsteady gait                                                                  |
+| `ih2`  | Urinary collection device (exclude pads or briefs)                              |
+| `ik2a` | Weight loss of more than 5% in the last 30 days, or 10% or more in the last 180 days |
+| `ib5a` | 5 Year History-Long Term Care Facility                                         |
+| `ib5b` | 5 Year History-Board and care home, assisted living                            |

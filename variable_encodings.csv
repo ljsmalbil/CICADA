@@ -1,0 +1,335 @@
+iB5c,5 Year  History-Psychiatric hospital or unit
+iB5b,"5 Year History-Board and care home, assisted living"
+iB5a,5 Year History-Long Term Care Facility
+iB5e,5 Year History-Mental health residence psychiatric group home
+iB5d,5 Year History-Setting for persons with intellectual disability
+iD4a,Ability to see in adequate light (with glasses or with other visual appliance normally used)
+iD2,Ability to understand others
+iJ2g,"Abnormal thought process loosening of associations, blocking, flight of ideas, tangentiality, circumstantiality"
+cABUSE,Abusive Relationship CAP
+iQ3b,Accessibility to grocery store without assistance
+iJ2m,Acid reflux Regurgitation of acid from stomach to throat
+cACTIV,Activities CAP
+iC4,Acute change in Mental Status from persons usual functioning
+iM3,Adherent with any medication prescribed by physician
+cADL,ADL CAP
+iP1d1,ADL care - by person 1
+iP1d2,ADL care - by person 2
+sADLLF,ADL Long Form Scale 0-28 range
+sADLSF,ADL Short Form Scale 0-16 range
+iG2a,ADL: Bathing
+iG2i,ADL: Bed mobility
+iG2d,ADL: Dressing lower body
+iG2c,ADL: Dressing upper body
+iG2j,ADL: Eating
+iG2f,ADL: Locomotion
+iG2b,ADL: Personal hygiene
+iG2h,ADL: Toilet use
+iG2g,ADL: Transfer toilet
+iG2e,ADL: Walking
+iI2aa,Admission Disease code
+iI2ba,Admission Disease code
+iI2ca,Admission Disease code
+iI2da,Admission Disease code
+iI2ea,Admission Disease code
+iI2fa,Admission Disease code
+iI2ga,Admission Disease code
+iI2ha,Admission Disease code
+iI2ia,Admission Disease code
+iI2ja,Admission Disease code
+iI2ka,Admission Disease code
+iI2la,Admission Disease code
+iI2ma,Admission Disease code
+Age_Cat,Age categories
+iA3,Age of patient at assessment (years)
+iJ8b,Alcohol: Highest number of drinks in any single sitting in last 14 days
+iM2,Allergy to any drug
+iI1c,Alzheimers disease
+iI1n,Anxiety
+iJ2j,Aphasia
+cDRUG,Appropriate Medications CAP
+iA12b,"As compared to 90 days ago, person now lives with someone new"
+iJ2t,Aspiration
+iA9,Assessment reference date
+iU1,Assessment signed as complete
+aAXURG,Assessment Urgency Algorithm 1 least to 6 most-Hirdes
+ibenc_wave,assessment wave
+iQ3a,Availability of emergency assistance
+iQ3c,Availability of home delivery of groceries
+iG9b,Awareness of suggestions that person limits or stops driving
+cBEHAV,Behavior CAP
+iI1w,Bipolar disorder
+iH1,Bladder continence
+iN1d,Blood pressure measured in past year
+iK4e,BMI
+sBMI,Body Mass Index (kg/m^2)
+cBOWEL,Bowel CAP
+iH3,Bowel continence
+iJ5d,Breakthrough pain
+cBRITSU,Brittle Support CAP
+iI1s,Cancer
+cCARDIO,Cardio-respiratory CAP
+iG8a,"Change in ADL status as compared to 90 days ago, or since last assessment"
+iC5,Change in Decision Making as compared to 90 days ago
+iF2,"Change in social activities in last 90 days or since last assesment, if less than 90 days ago"
+iJ2e,Chest pain
+iI1m,Chronic obstructive pulmonary disease COPD
+cmi,CMI case mix index-formal Bjorkgren 2000
+cmi_poss,CMI case mix index-formal Poss 2014
+cmifi,CMIFI case mix index-formal and informal Bjorkgren 2000
+cmifi_poss,CMIFI case mix index-formal and informal Poss 2014
+cCOGNIT,Cognitive CAP
+iC1,Cognitive Skills for Daily Decision Making
+iN1h,Colonoscopy in past 5 years
+cCOMMUN,Communication CAP
+iJ6a,"Conditions diseases make cognitive, ADL, mood, or behavior patterns unstable"
+iF1e,Conflict or anger with family or friends
+iI1l,Congestive heart failure CHF
+iJ5c,Consistency of pain
+iJ2k,Constipation No bowel movement in 3 days or difficult passage of hard stool
+iI1k,Coronary heart disease
+cc,Country code
+CPS2,CPS Version 2 -0-8 range-includes milder impairment stages-Morris 2014
+iE1g,"Crying, tearfulness"
+iU2,Date assessment signed as complete
+sDbSI,Deafblind Severity Index 0-5 range
+iK2b,Dehydrated or BUN Cre ratio > 25
+cDEHYD,Dehydration CAP
+cDELIR,Delirium CAP
+iJ2h,Delusions Fixed false beliefs
+iI1d,Dementia other than Alzheimers disease
+iN1e,Dental exam in past year
+iI1o,Depression
+iI1t,Diabetes mellitus
+iJ2l,Diarrhea
+iJ2a,Difficult or unable to move self to standing position unassisted
+iJ2b,Difficult or unable to turn self around and face the opposite direction when standing
+iJ2f,Difficulty clearing airway secretions
+iJ2o,Difficulty falling asleep or staying asleep waking up too early restlessness non-restful sleep
+iA8discharge,discharged?
+iI2na,Disease code
+iI2oa,Disease code
+iQ1a,Disrepair of the Home
+iG4,Distance walked
+iG5,Distance wheeled
+iJ2c,Dizziness
+iG9a,Drove car vehicle in the last 90 days
+iJ3,Dyspnea: Shortness of breath
+sEDMONTON,Edmonton Frailty Scale 4 Categories
+iN5b,Emercency room visit (not counting overnight stay): # times past 90 days
+iJ6c,"End-stage disease, 6 or fewer months to live"
+cENVIR,Environmental CAP
+iB3,Ethnicity and race
+iJ6b,"Experiencing an acute episode, or a flare-up of a recurrent or chronic problem"
+iE1k,"Expressions, including nonverbal, of a lack of pleasure in life (anhedonia)"
+iE1c,"Expressions, including nonverbal, of what appear to be unrealistic fears"
+iN1g,Eye exam  in past year
+iJ1,Falls
+cFALLS,Falls CAP
+iF7d,Family overwhelmed
+iJ4,Fatigue
+iF1f,Fearful of a family member or close acquaintance
+cFEEDTB,Feeding Tube CAP
+iJ2q,Fever Aspiration
+sFI_corrected_long,FI_frailty index_long-44 items-Searle_Armstrong_specs
+iQ4,Finances: because of limited funds made trade-offs the last 30 days
+iK2c,Fluid intake less than 1000cc per day
+iK2h,Fluid output exceeds input
+iL7,"Foot problems, eg bunions, hammertoes, overlapping toes, structural problems, infections, ulcers"
+iJ5a,Frequency with which person complains or shows evidence of pain
+sFried_BRtotal,Fried_Frailty Criteria Bandeen-Roche specs (0-5) v1
+iA2,Gender
+sGERSCR,Geriatric Screener 0-1 range
+iJ2r,GI or GU bleeding
+iJ2i,Hallucinations False sensory perceptions
+iQ2,Handicapped re-engineered apartment accessible for persons with disabilities
+iK4b,"Has broken, fragmented, loose, or otherwise non-intact natural teeth"
+iN1f,Hearing exam in past year
+iD3a,Hearing: ability to hear (with hearing appliance normally used)
+iI1e,Hemiplegia
+iI1a,Hip fracture during last 30 days
+iN3aa,Home health aides - # days in past 7 days
+iN3ab,Home health aides - total minutes in past week
+iN3ba,Home nurse - # days in past 7 days
+iN3bb,Home nurse - total minutes in past week
+iN3ca,Homemaking services - # days in past 7 days
+iN3cb,Homemaking services - total minutes in past week
+iP3,Hours of informal care and active monitoring during last 3 days: #
+iJ2mm,"Hygiene Unusually poor hygiene, unkempt, disheveled"
+sIADLCH,IADL Capacity Hierarchy Scale 0-6 range
+sIADLC,IADL Capacity scale 0-48 range
+iP1c1,IADL care -  by person 1
+iP1c2,IADL care - by person 2
+cIADL,IADL Improvement CAP
+sIADLP,IADL Performance scale 0-48 range
+iG1cb,IADL: Managing finances   Capacity
+iG1ca,IADL: Managing finances Performance
+iG1db,IADL: Managing medications   Capacity
+iG1da,IADL: Managing medications   Performance
+iG1ab,IADL: Meal preparation  Capacity
+iG1aa,IADL: Meal preparation  Performance
+iG1bb,IADL: Ordinary housework    Capacity
+iG1ba,IADL: Ordinary housework    Performance
+iG1ea,IADL: Phone use   performance
+iG1eb,IADL: Phone use  Capacity
+iG1ga,IADL: Shopping   performance
+iG1gb,IADL: Shopping  Capacity
+iG1fb,IADL: Stairs  Capacity
+iG1fa,IADL: Stairs  performance
+iG1hb,IADL: Transportation  Capacity
+iG1ha,IADL: Transportation performance
+Org_no,IBenC organisation number
+iI2ebb,ICD10 code
+ID,ID Inspire 2018
+iG6b,In the last 3 days: nr of days went out  house or building in which he or she resides
+iE2b,"In the past 3 days: Anxious, restless, or uneasy?"
+iE2a,In the past 3 days: Little interest or pleasure in things you normally enjoy?
+iE2c,"In the past 3 days: Sad, depressed, or hopeless?"
+iQ1c,Inadequate heating or cooling
+iE3f,Inappropriate public sexual behavior or public disrobing
+iN1a,Influenza vaccine  in past 2 years
+iP1a1,Informal help-relationship - 1
+iP1a2,Informal help-relationship - 2
+iP2a,Informal helper(s) is/are unable to continue in caring activities
+iN5a,Inpatient acute hospital with overnight stay: # times past 90 days
+cRISK,Institutional risk CAP
+iJ5b,Intensity of highest level of pain present
+iQ1d,Lack of personal safety
+iT1,Last day of stay
+iO1a,legal gardian present
+iF3,Lenght of the time alone during the day (morning and evening)
+iQ1e,Limited access to home  or rooms in home
+iP1b1,Lives with person - 1
+iP1b2,Lives with person - 2
+iA12a,Living arrangement
+iF1d,Loneliness: indicates feelings of loneliness
+iE1a,Made negative statements
+iF4,Major life stressors in last  last 90 days
+iL4,"Major skin problems, eg lesions, 2nd- or 3rd degree burns, healing surgical wounds"
+iD1,Making self understood
+iN1c,Mammogram or breast exam in past 2 years
+iA4,Marital Status
+iN3da,Meals - # days in past 7 days
+iC2b,Memory Recall Ability: Procedural Memory ok
+iC2a,Memory Recall Ability: Short-term Memory ok
+iC2c,Memory Recall Ability: Situational memory ok
+iK3,Mode of nutritional intake
+cMOOD,Mood CAP
+iL1,Most severe pressure ulcer
+iI1f,Multiple sclerosis
+iF1g,"Neglected, abused, or mistreated"
+iR3,Number of 10 Independent ADL  in which person was independent prior to detoriation: #
+iR4,Number of 8 IADL performance areas in which person was independent prior to detoriation: #
+cNUTR,Nutrition CAP
+iN3fa,Occupational therapy - # days in past 7 days
+iN3fb,Occupational therapy - total minutes in past week
+iR1,One or more care goals met in the last 90 days or since last assesment <90 days
+iR5,Onset of precipitating event related to detoriation
+iI1b,Other fracture during last 30 days
+iF1c,Other interaction with long-standing social relation or family member eg telephone e-mail
+iL6,"Other skin condition or changes in skin condition, eg bruises, raches, itching, herpes zoster, intertrigo, eczema"
+iL3,"Other skin ulcer, eg  venous ulcer, arteriiL ulcer, mixed venous arterial ulcer, diabetic foot ulcer"
+iR2,Overall Self suffiency has changed significantly as compared to status 90 days ago
+iH4,Pads or briefs worn
+cPAIN,Pain CAP
+iJ5e,Pain control
+iI1g,Paraplegia
+iI1h,Parkinsons disease
+iF1a,Participation in social activities of long-standing interest
+iN2m,Past 3 days:  Palliative care program
+iN2i,Past 3 days:  Transfusion
+iN2a,Past 3 days: Chemotherapy
+iN2b,Past 3 days: Dialysis
+iN2c,Past 3 days: Infection control segregation
+iN2d,Past 3 days: IV Medication
+iN2f,Past 3 days: Radiation
+iN2l,Past 3 days: Scheduled toileting program
+iN2g,Past 3 days: Suctioning
+iN2h,Past 3 days: Tracheostomy care
+iN2n,Past 3 days: Turning program
+iN2j,Past 3 days: Ventilator
+iN2k,Past 3 days: Wound care
+iN2e,Past 3 days:Oxygen therapy
+iC3a,Periodic disordered thinking or awareness: Easily Distracted
+iC3b,Periodic disordered thinking or awareness: Episodes of Disorganized Speech
+iC3c,Periodic disordered thinking or awareness: Mental function varies over the course of the day
+iJ2s,Peripheral edema
+iE1b,Persistent anger with self or others
+iA12c,Person or relative feels that the person would be better off living elsewhere
+sPSI,Personal Severity Index 0-28 Morris
+iE3c,"Physical abuse, others were hit, shoved, scratched, sexually abused"
+cPACTIV,Physical Activity Promotion CAP
+iG7b,Physical function improvement potential: Caregiver believes can improve
+iG7a,Physical function improvement potential: Person believes can improve
+iN3ea,Physical therapy - # days in past 7 days
+iN3eb,Physical therapy - total minutes in past week
+iN4,Physically restrained
+iN5c,Physician visit (or autorized assistant or practioner): # times past 90 days
+iI1q,Pneumonia
+iN1b,Pneumovaxx vaccine in past 5 years or after 65 years
+cPULCER,Pressure Ulcer CAP
+cPREVEN,Prevention CAP
+cPREVEN_NL,"Prevention CAP aangepast NL (zonder colonsc, pneumovaxx)"
+iP2b,"Primary Informal helper expresses feelings of distress, anger or depression"
+iB4,Primary language
+iG3,Primary mode of locomotion
+iL2,Prior pressure ulcer
+iN3ha,Psychological therapies - # days in past 7 days
+iN3hb,Psychological therapies - total minutes in past week
+iI1i,Quadriplegia
+iA8,Reason for assessment
+iA8r,reason for assessment
+iJ12,Recent falls
+iE1h,Recurrent statements that something terrible is about to happen
+iE1j,Reduced social interactions
+aREHAB,Rehabilitation Algorithm-Hirdes
+iE1e,Repetitive anxious complaints or concerns (non-health related)
+iE1d,Repetitive health complaints
+iK4c,Reports difficulty chewing
+iK4d,Reports dry mouth
+iA11b,Residential / living status at time of assessment
+iT2,Residential or living status after discharge
+iE3e,"Resists care, taking medications, injections, ADL assistance, eating"
+rughclin,RUG HC Clinical Group
+aR3h,RUGIIIHC Clinical (sub)group
+rugiiihc,RUGIIIHC Clinical (sub)group
+sABS,sABS Aggressive Behaviour Scale 0-12 range =0 no 1-4 mild to moderate 5+more severe
+iE1f,"Sad, pained, or worried facial expressions"
+sADLH,sADLH ADL hierarchy scale (0-6)
+sCHESS,"sCHESS (range 0-5): Changes in Health, End-stage disease, Signs and Symptoms Scale"
+iI1p,Schizophrenia
+sCPS,sCPS Cognitive Performance Scale 0-6 range-Morris 1991
+sCPS2,sCPS2 scale 0-6 range - includes procedural Memory item
+sDIVERT,sDIVERT Scale  1-6 range
+sDRS,sDRS depression rating scale (0-14)
+iJ7,Self reported health
+aSRI,Self-reliance Index for HC
+aSERVURG,Service Urgency Algorithm 1 lowest to 4 highest-Hirdes
+iL5,Skin tears or cuts other than surgery
+sMAPLE,sMAPLE Algorithm 0-5 range
+iJ8a,Smokes tobacco daily
+cADD,Smoking and Drinking CAP
+cSOCFUNC,Social Function CAP
+iE3d,Socially inappropriate or disruptive behavior
+iN3ga,Speech therapy - # days in past 7 days
+iN3gb,Speech therapy - total minutes in past week
+sPURS,sPURS- Pressure Ulcer Risk Scale (sPURS) 0-8 range
+iQ1b,Squalid condition
+sRISE_HC,sRISE: Revised index social engagement for HC
+iI1j,Stroke CVA
+iF8a,strong relationship with family
+iA13,Time since last hospital stay
+iG12,Timed walk
+iJ2p,"Too much sleep, excessive amount of sleep that interferes with person's normal functioning"
+iG6a,Total hours of exercise or physical activity in last 3 days
+iJ2d,Unsteady gait
+iH2,Urinary collection device (exclude pads or briefs)
+cURIN,Urinary Incontinence CAP
+iI1r,Urinary tract infection in last 30 days
+iE3b,"Verbal abuse, others were threatened, screamed at, cursed at"
+iF1b,Visit with a long-standing social relation or family member
+iJ2n,Vomiting
+iE3a,"Wandering, moved with no rational purpose, seemingly oblivious to needs or safety"
+iK4a,Wears a denture (removable prothesis)
+iK2a,"Weight loss of more than 5% in the last 30 days, or 10% or more in the last 180 days"
+iE1i,Withdrawal from activities of interest

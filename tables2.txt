@@ -1,0 +1,50 @@
+| Code   | Meaning                                                                        | Variable Type               |
+|--------|--------------------------------------------------------------------------------|-----------------------------|
+| `ia9`  | Assessment reference date                                                     | Other Relevant Variable     |
+| `ih1`  | Bladder continence                                                             | Confounder                  |
+| `ih3`  | Bowel continence                                                               | Confounder                  |
+| `ic1`  | Cognitive Skills for Daily Decision Making                                     | Other Relevant Covar        |
+| `ij2a` | Difficult or unable to move self to standing position unassisted               | Clinical Indication         |
+| `ij2b` | Difficult or unable to turn self around and face the opposite direction when standing | Clinical Indication    |
+| `ij2c` | Dizziness                                                                      | Clinical Indication         |
+| `ij1`  | Falls                                                                          | Confounder                  |
+| `il7`  | Foot problems, e.g., bunions, hammertoes, overlapping toes, structural problems, infections, ulcers | Confounder     |
+| `ia2`  | Gender                                                                         | Other Relevant Covar        |
+| `ia12a`| Living arrangement                                                             | Other Relevant Covar        |
+| `ic2c` | Memory Recall Ability: Situational memory ok                                   | Other Relevant Covar        |
+| `il1`  | Most severe pressure ulcer                                                     | Confounder                  |
+| `in2i` | Past 3 days: Transfusion                                                       | Value-Based Indication      |
+| `in2a` | Past 3 days: Chemotherapy                                                      | Value-Based Indication      |
+| `in2c` | Past 3 days: Infection control segregation                                     | Value-Based Indication      |
+| `in2f` | Past 3 days: Radiation                                                         | Value-Based Indication      |
+| `in2g` | Past 3 days: Suctioning                                                        | Value-Based Indication      |
+| `in2h` | Past 3 days: Tracheostomy care                                                 | Value-Based Indication      |
+| `in2e` | Past 3 days: Oxygen therapy                                                    | Value-Based Indication      |
+| `ie3e` | Resists care, taking medications, injections, ADL assistance, eating           | Confounder                  |
+| `scps` | sCPS Cognitive Performance Scale 0-6 range-Morris 1991                         | Confounder                  |
+| `sdrs` | sDRS depression rating scale (0-14)                                            | Clinical Indication         |
+| `ia13` | Time since last hospital stay                                                  | Other Relevant Covar        |
+| `ij2d` | Unsteady gait                                                                  | Clinical Indication         |
+| `ih2`  | Urinary collection device (exclude pads or briefs)                              | Confounder                  |
+| `ik2a` | Weight loss of more than 5% in the last 30 days, or 10% or more in the last 180 days | Confounder               |
+| `ib5a` | 5 Year History-Long Term Care Facility                                         | Other Relevant Covar        |
+| `ib5b` | 5 Year History-Board and care home, assisted living                            | Other Relevant Covar        |
+
+
+| Code      | Description                   | Variable Type          |
+|-----------|-------------------------------|------------------------|
+| `i6ja`    | Not found in the dataset      | Contra-Indication      |
+| `ij2e`    | Not found in the dataset      | Value-Based Indication |
+| `ij2l`    | Not found in the dataset      | Value-Based Indication |
+| `ij2t`    | Not found in the dataset      | Value-Based Indication |
+| `ij2q`    | Not found in the dataset      | Value-Based Indication |
+| `ij2r`    | Not found in the dataset      | Value-Based Indication |
+| `ij3`     | Not found in the dataset      | Confounder             |
+| `ij4`     | Not found in the dataset      | Confounder             |
+| `ij6c`    | Not found in the dataset      | Confounder             |
+| `ig4`     | Not found in the dataset      | Confounder             |
+| `ig5`     | Not found in the dataset      | Confounder             |
+| `sage_cat`| Not found in the dataset      | Other Relevant Covar   |
+| `clientid`| Not found in the dataset      | Other Relevant Variable|
+| `treatment`| Not found in the dataset     | Other Relevant Variable|
+| `target`  | Not found in the dataset      | Other Relevant Variable|
